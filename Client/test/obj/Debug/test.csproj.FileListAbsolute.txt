@@ -1,0 +1,23 @@
+c:\users\guilherme\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+c:\users\guilherme\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+c:\users\guilherme\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+c:\users\guilherme\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+c:\users\guilherme\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+C:\Users\Mateus Diniz\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\Mateus Diniz\documents\visual studio 2013\Projects\test\test\obj\Debug\test.exe
+C:\Users\Mateus Diniz\documents\visual studio 2013\Projects\test\test\obj\Debug\test.pdb
+C:\Users\Mateus Diniz\documents\visual studio 2013\Projects\test\test\bin\Debug\test.exe
+C:\Users\Mateus Diniz\documents\visual studio 2013\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Mateus Diniz\documents\visual studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.exe
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.exe
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\test.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\Client.exe.config
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\Client.exe
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\test\test\bin\Debug\Client.pdb
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\Client.exe
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\test\test\obj\Debug\Client.pdb

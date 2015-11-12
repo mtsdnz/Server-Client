@@ -1,0 +1,24 @@
+c:\users\guilherme\documents\visual studio 2013\Projects\server\server\bin\Debug\server.exe.config
+c:\users\guilherme\documents\visual studio 2013\Projects\server\server\bin\Debug\server.exe
+c:\users\guilherme\documents\visual studio 2013\Projects\server\server\bin\Debug\server.pdb
+c:\users\guilherme\documents\visual studio 2013\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2013\Projects\server\server\obj\Debug\server.exe
+c:\users\guilherme\documents\visual studio 2013\Projects\server\server\obj\Debug\server.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2013\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\Mateus Diniz\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.exe
+C:\Users\Mateus Diniz\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2013\Projects\server\server\bin\Debug\server.exe
+C:\Users\Mateus Diniz\Documents\Visual Studio 2013\Projects\server\server\bin\Debug\server.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2013\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\Mateus Diniz\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\Server.exe
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\Server.pdb
+C:\Users\DarkHero\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
